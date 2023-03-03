@@ -36,8 +36,8 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gauravpatil301&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravpatil301&layout=compact)
+
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=gauravpatil301&theme=dark)](https://git.io/streak-stats)
- 
+ ![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravpatil301&layout=compact)
  </div>
