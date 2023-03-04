@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi there 👋 I am Gaurav Patil</h1> 
 
+<div align='center'>
+
 ![count](https://komarev.com/ghpvc/?username=GauravPatil301&color=blueviolet)
 
-
 <h1 align="center">📫 Connect With Me :rocket:</h1>
-<div align='center'>
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://gauravpatil.hashnode.dev/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GauravYPatil)
